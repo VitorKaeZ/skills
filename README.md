@@ -7,6 +7,7 @@ Minhas skills para agentes de código (Claude Code, Codex e outros que leem `SKI
 | Skill | O que faz |
 |---|---|
 | [agent-guardrails](skills/agent-guardrails/SKILL.md) | Revisa ou projeta as proteções de um agente de IA: trifecta letal (Rule of Two), checklist em 8 camadas e relatório por severidade. |
+| [lp-client-research](skills/lp-client-research/SKILL.md) | Coleta fotos, avaliações, horário, serviços e cores do cliente no Google e no Instagram (sem inventar nada) e deixa o formulário da landing page pronto para preencher. |
 
 ## Instalar
 
